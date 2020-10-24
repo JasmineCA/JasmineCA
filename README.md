@@ -3,7 +3,7 @@
 French software dev
 
 - 🔭 I’m currently working at **Ensicaen**
-- 🌱 I’m currently learning: too much stuff 
+- :racehorse: I’m currently learning: too much stuff 
 - :memo: I’m looking for help with: cryptography (but I'm too lazzy in side projets)
 
 <!--
